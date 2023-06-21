@@ -1,4 +1,4 @@
-#Finding Falcone
+# Finding Falcone
 
 ## System requirements.
 
@@ -27,16 +27,21 @@ King Shan has received intelligence that Al Falcone is hiding in one of six neig
 
 ## Usage
 
-1.Select 4 planets to search (out of the total 6)
-2.Select which space vehicles to send to these planets
-3.See how much time it will take for the vehicles to reach their targets &
-4.See final result of success or failure
+1. Select 4 planets to search (out of the total 6)
+1. Select which space vehicles to send to these planets
+1. See how much time it will take for the vehicles to reach their targets &
+1. See final result of success or failure
 
 ## Screen Shots
+Select Planets
+![Screenshots](/src/image/find_1.png "This is a sample image.")
 
-![Screenshots](/image/find_1.png "This is a sample image.")
-![Screenshots](/image/find_2.png "This is a sample image.")
-![Screenshots](/image/find_2.png "This is a sample image.")
+Select Vehicles
+![Screenshots](/src/image/find_2.png "This is a sample image.")
+
+
+Result
+![Screenshots](/src/image/find_3.png "This is a sample image.")
 
 ## Links
 
