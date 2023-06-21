@@ -1,0 +1,7 @@
+.vehicleRadio {
+  display: flex;
+}
+
+.vehicleRadio span {
+  margin: 0px 4px;
+}

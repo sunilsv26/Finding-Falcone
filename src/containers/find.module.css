@@ -1,0 +1,26 @@
+.heading {
+  text-align: center;
+}
+.form {
+  margin: auto;
+  width: fit-content;
+  display: flex;
+  column-gap: 56px;
+  flex-wrap: wrap;
+  row-gap: 32px;
+}
+
+.timeTaken {
+  padding-top: 18px;
+  margin: 0px;
+}
+
+.find {
+  padding: 8px 12px;
+  height: calc(100% - 92px);
+  overflow-y: scroll;
+}
+.findfalcon {
+  margin-top: 4rem;
+  text-align: center;
+}

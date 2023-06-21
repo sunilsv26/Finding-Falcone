@@ -1,0 +1,16 @@
+.pageheader {
+  display: flex;
+  justify-content: flex-end;
+  column-gap: 12px;
+  align-items: center;
+  height: 40px;
+  padding: 8px 12px;
+}
+.pageheader a {
+  text-decoration: none;
+  color: black;
+}
+.pageheader .resetbtn {
+  background: none;
+  border: none;
+}

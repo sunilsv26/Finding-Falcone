@@ -1,0 +1,16 @@
+.pageFooter {
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  padding: 8px 12px;
+  height: 52px;
+}
+.pageFooter a {
+  text-decoration: none;
+  color: black;
+}
+
+.pageFooter p {
+  margin: 0px;
+}
